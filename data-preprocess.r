@@ -1,4 +1,4 @@
-#If you are reviewing the project, please put the data file 'household_power_consumption.txt' into the folder 'data' and rename it as 'source',thank you.
+#If you are reviewing the project, please put the data file 'household_power_consumption.txt' into the folder 'data',thank you.
 
 #This file runs to load data and do some preprocess
 #Please run it FRIST!
